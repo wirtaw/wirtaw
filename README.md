@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I'm Vladimir 👋
 
 <!--
 **wirtaw/wirtaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm backend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on webcrapping with NodejS or Python
+- 🌱 I’m currently learning Python and Data Science
+- 👯 I’m looking to collaborate on NodeJS/VueJS stack
+- 🤔 I’m looking for help with data science
+- 💬 Ask me about JavaScript, web development, VueJS
+- 📫 How to reach me: (@wirtaw)[mailto:float45@gmail.com] on twitter (@wirtaw)[@wirtaw]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: like weightlifting and crossfit
 -->
