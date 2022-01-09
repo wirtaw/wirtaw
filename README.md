@@ -5,7 +5,7 @@
 -->
 I'm backend developer.
 
-- 🔭 I’m currently working on webcrapping with NodejS or Python
+- 🔭 I’m currently working on webscrapping with NodejS or Python
 - 🌱 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on NodeJS/VueJS stack
 - 🤔 I’m looking for help with data science
