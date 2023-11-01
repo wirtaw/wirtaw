@@ -3,9 +3,9 @@
 <!--
 **wirtaw/wirtaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm backend developer.
+I'm a backend developer.
 
-- 🔭 I’m currently working on webscrapping with NodejS or Python
+- 🔭 I’m currently working on web scrapping with NodejS or Python
 - 🌱 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on NodeJS/VueJS stack
 - 🤔 I’m looking for help with data science
