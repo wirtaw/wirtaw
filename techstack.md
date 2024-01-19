@@ -25,7 +25,6 @@ Full tech stack [here](/techstack.md)
 ![](https://img.stackshare.io/repo.svg "repo") [wirtaw/wirtaw](https://github.com/wirtaw/wirtaw)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |1<br/>Tools used|01/05/24 <br/>Report generated|
-|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (1)
