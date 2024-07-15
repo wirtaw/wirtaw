@@ -3,15 +3,22 @@
 <!--
 **wirtaw/wirtaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a backend developer.
+Welcome to my GitHub profile! I am a highly skilled Senior Backend Developer with extensive experience in various technologies and a strong track record of success in multiple roles. My expertise includes seamless integration with third-party and internal services, maintenance of production services, database optimization, and observability enhancement.
+About Me:
 
-- 🔭 I’m currently working on web scrapping with NodejS or Python
-- 🌱 I’m currently learning Python and Data Science
-- 👯 I’m looking to collaborate on NodeJS/VueJS stack
-- 🤔 I’m looking for help with data science
-- 💬 Ask me about JavaScript, web development, VueJS
-- 📫 How to reach me: [float45@gmail.com](mailto:float45@gmail.com) on about.me [@wirtaw](https://about.me/wirtaw)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: like weightlifting and crossfit
+  🔭 Currently Working On: Web scraping projects with Node.js and Python.
+  
+  🌱 Currently Learning: Python and Data Science to further enhance my skills.
+  
+  👯 Looking to Collaborate On: Projects involving NodeJS/VueJS stack.
+  
+  💬 Ask Me About: JavaScript, web development, NodeJS, VueJS, databases, and backend development.
+  
+  📫 How to Reach Me: You can contact me via email at float45@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/wirtaw/).
+  
+  😄 Pronouns: He/Him
+  
+  ⚡ Fun Fact: I enjoy weightlifting and crossfit.
+  
 
 ---
