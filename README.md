@@ -20,5 +20,5 @@ About Me:
   
   ⚡ Fun Fact: I enjoy weightlifting and crossfit.
   
-
 ---
+<a href="https://app.daily.dev/wirtaw"><img src="https://api.daily.dev/devcards/v2/JO6omzz3A4tYhQZVrxPA9.png?r=l5b" width="356" alt="Vladimir's Dev Card"/></a>
